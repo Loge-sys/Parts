@@ -1,0 +1,8 @@
+{
+	"short_name": "WebP",
+	"name": "webParts",
+	"start_url": "/",
+	"display": "standalone",
+	"theme_color": "#fff",
+	"background_color": "#494"
+}
